@@ -1,3 +1,6 @@
+Link para o C4-MODEL:
+https://miro.com/app/board/uXjVMNhAicQ=/?share_link_id=530272731831
+
 1. A solução deve ser disponibilizada em Cloud ou On-premise?
 Resposta: 
 A solução construida deve ser disponibilizada em Cloud, pela escalabilidade, flexibilidade e menor custo.
