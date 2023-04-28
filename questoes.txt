@@ -1,0 +1,34 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+Resposta: 
+A solução construida deve ser disponibilizada em Cloud, pela escalabilidade, flexibilidade e menor custo.
+
+Escalabilidade:Permite que aumente ou diminua seus recursos de acordo com a demanda da solução. Pode-se adicionar mais instâncias de servidores, aumentar o poder de processamento, o espaço de armazenamento e a largura de banda de acordo com as necessidades.
+
+Flexibilidade:Acessar seus recursos de qualquer lugar com uma conexão à internet, permitindo que seus usuários acessem a solução em qualquer dispositivo.
+
+Menor custo: Hospedar uma solução localmente pode ser muito caro, requerendo a aquisição e manutenção de hardware de servidor, software e rede. Disponibilizando em Cloud, será utilizado apenas recursos necessários, o que pode reduzir significativamente os custos.
+
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil?
+Resposta:
+O Jira por ser uma ferramente de gerenciamento de projeto muito utilizada, ela tem algumas vantagens como:
+Planejamento Ágil: Ele oferece uma série de recursos de planejamento ágil, como quadros kanban, quadros scrum e sprints, que permitem que as equipes trabalhem de forma mais eficiente e colaborativa, priorizando as tarefas mais importantes e acompanhando o progresso em tempo real.
+Flexibilidade: Ele é altamente flexível e personalizável, permitindo que as equipes criem seus próprios fluxos de trabalho, campos personalizados, tipos de problemas e muito mais, para se adequar às suas necessidades específicas de gerenciamento de projetos.
+Integrações: Ele pode ser integrado com uma série de outras ferramentas de desenvolvimento de software, como GitHub, Bitbucket, Jenkins, Slack, Confluence e muitas outras, permitindo que as equipes trabalhem em um ambiente mais integrado e colaborativo.
+Análise de dados: Ele oferece uma série de recursos de relatórios e análises, permitindo que as equipes obtenham insights valiosos sobre o desempenho do projeto e da equipe, e tomem decisões mais informadas com base nesses dados.
+Devido a todas essas vantagens, ele se torna ágil.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+Resposta:
+Sim, possuo experiencia na area, porém acredito que sempre posso melhorar, ja tive a frente de outros projetos e tive dificuldades por falta de conhecimento tecnico para soluções mais robustas, contudo, gerenciei toda a equipe e conseguimos realizar todas as tasks que foram necessárias.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+Resposta:
+Se a pergunta estiver relacionada ao desafio, acredito que se desse mais tempo, seria melhor para o desenvolvimento de toda a aplicação, tratando os erros e bugs.
+Se for relacionada a Bemol Digital, acredito que desse mais oportunidades para pessoas que estão ingressando no mercado, tive muita dificuldade de encontrar o primeiro emprego, e acredito que muitos tambem possuem essa dificuldade.
+Se for relacionada a mim, eu gostaria de melhorar meu ingles e ler mais livros, dessa forma iria me ajudar no vocabulário e até mesmo comunicação.
+
+5. Acha válido esse desafio para o processo que está participando?
+Resposta:
+Sim, porém foi meio dificil de entender no inicio, mas com o tempo adequado dá para realizar as tarefas.
+Tambem, por não especificar uma linguagem ou tecnologia, e sim conceitos abstratos, acredito que foi a melhor escolha, pois dessa forma o avaliador consegue avaliar a logica de programação em si e visão computacional, e não a proeficiencia em uma linguagem especifica, afinal a sintaxe de uma linguage é facil de aprender, porém a logica de programação é sempre prensete e necessária.
